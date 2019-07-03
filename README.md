@@ -1,9 +1,3 @@
-### 快速开始
+# Headline
 
-```
-npm install docsify-cli -g
-
-docsify init docs
-
-docsify serve docs -o true -p 3000
-```
+> An awesome project.
